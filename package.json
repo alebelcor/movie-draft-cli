@@ -1,0 +1,45 @@
+{
+  "name": "movie-draft-cli",
+  "version": "0.0.0",
+  "description": "Get the data of a list of Box Office Mojo's movies through the command-line",
+  "keywords": [
+    "cli-app",
+    "cli",
+    "box office mojo",
+    "movies",
+    "movie",
+    "movie title",
+    "movie gross",
+    "movie draft"
+  ],
+  "bugs": "https://github.com/alebelcor/movie-draft-cli/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Alejandro Beltrán",
+    "email": "alebelcor@gmail.com",
+    "url": "https://github.com/alebelcor"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "main": "cli.js",
+  "bin": {
+    "movie-draft": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alebelcor/movie-draft-cli.git"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "meow": "^3.3.0",
+    "movie-draft": "^0.1.0",
+    "movie-draft-default-reporter": "^0.1.1"
+  },
+  "devDependencies": {
+    "ava": "^0.2.0"
+  },
+  "preferGlobal": true
+}
