@@ -2,7 +2,9 @@
 
 > Get the data of a list of Box Office Mojo's movies through the command-line.
 
-[![Build Status](https://travis-ci.org/alebelcor/movie-draft-cli.svg)](https://travis-ci.org/alebelcor/movie-draft-cli)
+[![npm version](https://img.shields.io/npm/v/movie-draft-cli.svg)](https://npmjs.org/package/movie-draft-cli)
+[![Build Status](https://img.shields.io/travis/alebelcor/movie-draft-cli/master.svg)](https://travis-ci.org/alebelcor/movie-draft-cli)
+[![Test Coverage](https://img.shields.io/coveralls/alebelcor/movie-draft-cli/master.svg)](https://coveralls.io/github/alebelcor/movie-draft-cli)
 
 ## Install
 
